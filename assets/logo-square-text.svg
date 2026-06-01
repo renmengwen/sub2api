@@ -1,0 +1,35 @@
+<svg viewBox="0 0 680 680" width="680" height="680" xmlns="http://www.w3.org/2000/svg">
+  <title>PipeAPI Logo with Text</title>
+  <desc>Square logo for PipeAPI with brand name</desc>
+  <rect x="20" y="20" width="640" height="640" rx="80" fill="#0C447C"/>
+  <g transform="translate(190, 120)">
+    <rect x="0" y="35" width="50" height="120" rx="8" fill="#378ADD" opacity="0.2"/>
+    <rect x="10" y="45" width="30" height="100" rx="5" fill="#378ADD" opacity="0.4"/>
+    <rect x="44" y="55" width="152" height="80" rx="12" fill="#185FA5"/>
+    <rect x="50" y="61" width="140" height="68" rx="9" fill="#378ADD"/>
+    <g opacity="0.95">
+      <path d="M72 95 L90 95" stroke="white" stroke-width="3" stroke-linecap="round"/>
+      <path d="M85 87 L95 95 L85 103" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <path d="M108 95 L126 95" stroke="white" stroke-width="3" stroke-linecap="round"/>
+      <path d="M121 87 L131 95 L121 103" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <path d="M144 95 L162 95" stroke="white" stroke-width="3" stroke-linecap="round"/>
+      <path d="M157 87 L167 95 L157 103" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    </g>
+    <rect x="190" y="35" width="50" height="120" rx="8" fill="#1D9E75" opacity="0.25"/>
+    <rect x="200" y="45" width="30" height="100" rx="5" fill="#1D9E75" opacity="0.5"/>
+    <circle cx="25" cy="18" r="7" fill="#378ADD" opacity="0.5"/>
+    <circle cx="25" cy="18" r="3.5" fill="#378ADD"/>
+    <circle cx="215" cy="18" r="7" fill="#1D9E75" opacity="0.5"/>
+    <circle cx="215" cy="18" r="3.5" fill="#1D9E75"/>
+    <line x1="25" y1="25" x2="25" y2="35" stroke="#378ADD" stroke-width="2" opacity="0.5"/>
+    <line x1="215" y1="25" x2="215" y2="35" stroke="#1D9E75" stroke-width="2" opacity="0.5"/>
+    <circle cx="120" cy="175" r="7" fill="#7F77DD" opacity="0.5"/>
+    <circle cx="120" cy="175" r="3.5" fill="#7F77DD"/>
+    <line x1="120" y1="135" x2="120" y2="168" stroke="#7F77DD" stroke-width="2" opacity="0.5"/>
+  </g>
+  <text x="340" y="430" font-family="Inter, 'Segoe UI', system-ui, sans-serif" font-size="72" font-weight="500" fill="white" text-anchor="middle" letter-spacing="-2">Pipe<tspan fill="#85B7EB">API</tspan></text>
+  <text x="340" y="475" font-family="Inter, 'Segoe UI', system-ui, sans-serif" font-size="18" font-weight="400" fill="#85B7EB" text-anchor="middle" letter-spacing="6" opacity="0.8">API RELAY STATION</text>
+  <line x1="220" y1="500" x2="460" y2="500" stroke="#378ADD" stroke-width="1" opacity="0.3"/>
+  <line x1="280" y1="500" x2="400" y2="500" stroke="#378ADD" stroke-width="2" opacity="0.6"/>
+  <text x="340" y="540" font-family="Inter, 'Segoe UI', system-ui, sans-serif" font-size="14" font-weight="400" fill="white" text-anchor="middle" letter-spacing="1" opacity="0.4">pipeapi.top</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg viewBox="0 0 680 680" width="680" height="680" xmlns="http://www.w3.org/2000/svg">
+  <title>PipeAPI Favicon</title>
+  <desc>Icon-only logo for PipeAPI favicon</desc>
+  <rect x="20" y="20" width="640" height="640" rx="120" fill="#0C447C"/>
+  <g transform="translate(100, 100)">
+    <rect x="20" y="100" width="80" height="280" rx="16" fill="#378ADD" opacity="0.2"/>
+    <rect x="35" y="115" width="50" height="250" rx="10" fill="#378ADD" opacity="0.4"/>
+    <rect x="92" y="140" width="316" height="200" rx="24" fill="#185FA5"/>
+    <rect x="104" y="154" width="292" height="172" rx="18" fill="#378ADD"/>
+    <g opacity="0.95">
+      <path d="M145 240 L180 240" stroke="white" stroke-width="6" stroke-linecap="round"/>
+      <path d="M172 224 L192 240 L172 256" stroke="white" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <path d="M220 240 L255 240" stroke="white" stroke-width="6" stroke-linecap="round"/>
+      <path d="M247 224 L267 240 L247 256" stroke="white" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <path d="M295 240 L330 240" stroke="white" stroke-width="6" stroke-linecap="round"/>
+      <path d="M322 224 L342 240 L322 256" stroke="white" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    </g>
+    <rect x="400" y="100" width="80" height="280" rx="16" fill="#1D9E75" opacity="0.25"/>
+    <rect x="415" y="115" width="50" height="250" rx="10" fill="#1D9E75" opacity="0.5"/>
+    <circle cx="60" cy="60" r="16" fill="#378ADD" opacity="0.5"/>
+    <circle cx="60" cy="60" r="8" fill="#378ADD"/>
+    <circle cx="440" cy="60" r="16" fill="#1D9E75" opacity="0.5"/>
+    <circle cx="440" cy="60" r="8" fill="#1D9E75"/>
+    <line x1="60" y1="76" x2="60" y2="100" stroke="#378ADD" stroke-width="3" opacity="0.5"/>
+    <line x1="440" y1="76" x2="440" y2="100" stroke="#1D9E75" stroke-width="3" opacity="0.5"/>
+    <circle cx="250" cy="410" r="16" fill="#7F77DD" opacity="0.5"/>
+    <circle cx="250" cy="410" r="8" fill="#7F77DD"/>
+    <line x1="250" y1="340" x2="250" y2="394" stroke="#7F77DD" stroke-width="3" opacity="0.5"/>
+  </g>
+</svg>
